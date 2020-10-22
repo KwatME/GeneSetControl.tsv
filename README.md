@@ -1,4 +1,4 @@
-Gene Set Enrichment Control
+# Gene Set Enrichment Control
 
 This repository contains positive controls from various gene set enrichment experiments.
 
