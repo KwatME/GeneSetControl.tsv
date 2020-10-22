@@ -6,20 +6,24 @@ A control is a directory:
 
 ```
 experiment_name
+├── comparison_x_sample.tsv
 ├── gene_x_sample.tsv
-└── sample_group.tsv
-├── gene_set.json
+└── gene_set.json
 ```
 
 Names use only lowercase letter, number, and underscore.
 
+### comparison_x_sample.tsv
+
+1 row
+
+N sample columns
+
 ### gene_x_sample.tsv
 
-TODO: describe
+N gene rows
 
-### sample_group.tsv
-
-TODO: describe
+N sample columns
 
 ### gene_set.json
 
