@@ -1,5 +1,3 @@
-# Gene Set Enrichment Control
-
 This repository contains positive controls from various gene set enrichment experiments.
 
 A control is a directory:
@@ -13,19 +11,19 @@ experiment_name
 
 Names use only lowercase letter, number, and underscore.
 
-### comparison_x_sample.tsv
+`comparison_x_sample.tsv`
 
 1 row
 
 N sample columns
 
-### gene_x_sample.tsv
+`gene_x_sample.tsv`
 
 N gene rows
 
 N sample columns
 
-### gene_set.json
+`gene_set.json`
 
 ```json
 {
