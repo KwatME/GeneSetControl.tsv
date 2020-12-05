@@ -1,4 +1,4 @@
-This repository contains positive controls from various gene set enrichment experiments.
+Positive controls from various gene set enrichment experiments.
 
 ## Control
 
