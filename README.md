@@ -4,12 +4,10 @@ Positive controls from various gene set enrichment experiments.
 
 A control is a directory:
 
-```
-experiment_name
-├── comparison_x_sample.tsv
-├── gene_x_sample.tsv
-└── gene_set.json
-```
+    experiment_name
+    ├── comparison_x_sample.tsv
+    ├── gene_x_sample.tsv
+    └── gene_set.json
 
 ### comparison_x_sample.tsv
 
