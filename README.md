@@ -7,6 +7,7 @@ A control is a directory:
     experiment_name
     ├── comparison_x_sample.tsv
     ├── gene_x_sample.tsv
+    ├── gene_score.tsv
     └── gene_set.json
 
 ### comparison_x_sample.tsv
@@ -20,6 +21,12 @@ N sample columns
 N gene rows
 
 N sample columns
+
+### gene_score.tsv
+
+N gene rows
+
+2 columns (gene and score)
 
 ### gene_set.json
 
