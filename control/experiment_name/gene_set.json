@@ -1,1 +1,12 @@
-{}
+{
+  "gene_sets_tested": [
+    "../gene_sets/c2.all.v6.2.symbols.gmt"
+  ],
+  "gene_sets_positive": [
+    "ZHU_CMV_8_HR_UP",
+    "DER_IFN_ALPHA_RESPONSE_UP",
+    "REACTOME_INTERFERON_ALPHA_BETA_SIGNALING",
+    "EINAV_INTERFERON_SIGNATURE_IN_CANCER",
+    "BROWNE_INTERFERON_RESPONSIVE_GENES"
+  ]
+}

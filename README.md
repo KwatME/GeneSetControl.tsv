@@ -7,7 +7,7 @@ A control is a directory:
     experiment_name
     ├── comparison_x_sample.tsv
     ├── gene_x_sample.tsv
-    ├── gene_score.tsv
+    ├── gene_x_score.tsv
     └── gene_set.json
 
 ### comparison_x_sample.tsv
